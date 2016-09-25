@@ -11,7 +11,7 @@
 	    });
 
 	    // Tell the user how many blanks were removed
-	    console.log('%cBlanka' + ' removed ' + blanks.length + ' blank' + (blanks.length > 0 ? 's' : '') + ' for you', 'color: #b34315; background: #47d619; padding: 2px; display: inline-block;');
+	    console.log('%cBlanka' + ' removed ' + blanks.length + ' blank' + (blanks.length > 0 ? 's' : '') + ' for you', 'color: #520e47; background: #4fb15e; padding: 2px; display: inline-block;');
 	}
 
 }());
